@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.150.
- */
 package me.earth.crystalaura.module.crystalaura;
 
 import me.earth.earthhack.impl.event.events.network.DisconnectEvent;

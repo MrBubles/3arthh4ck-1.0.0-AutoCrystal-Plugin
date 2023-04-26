@@ -1,17 +1,3 @@
-//Deobfuscated with https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000 using mappings "C:\Users\KHALED IBRAHIM\Desktop\Minecraft-Deobfuscator3000-master\1.12 stable mappings"!
-
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  io.netty.util.internal.ConcurrentSet
- *  net.minecraft.client.gui.inventory.GuiContainer
- *  net.minecraft.entity.Entity
- *  net.minecraft.entity.player.EntityPlayer
- *  net.minecraft.item.ItemPickaxe
- *  net.minecraft.util.math.BlockPos
- *  org.lwjgl.input.Mouse
- */
 package me.earth.crystalaura.module.crystalaura;
 
 import io.netty.util.internal.ConcurrentSet;

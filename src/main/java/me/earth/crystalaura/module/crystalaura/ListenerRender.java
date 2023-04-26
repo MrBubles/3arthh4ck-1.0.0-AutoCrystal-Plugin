@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  net.minecraft.util.math.AxisAlignedBB
- *  net.minecraft.util.math.BlockPos
- *  org.lwjgl.opengl.GL11
- */
 package me.earth.crystalaura.module.crystalaura;
 
 import me.earth.earthhack.impl.event.events.render.Render3DEvent;

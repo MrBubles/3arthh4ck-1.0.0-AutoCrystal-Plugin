@@ -1,16 +1,3 @@
-//Deobfuscated with https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000 using mappings "C:\Users\KHALED IBRAHIM\Desktop\Minecraft-Deobfuscator3000-master\1.12 stable mappings"!
-
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  net.minecraft.entity.Entity
- *  net.minecraft.entity.item.EntityEnderCrystal
- *  net.minecraft.init.SoundEvents
- *  net.minecraft.network.play.server.SPacketSoundEffect
- *  net.minecraft.util.SoundCategory
- *  net.minecraft.util.math.BlockPos
- */
 package me.earth.crystalaura.module.crystalaura;
 
 import me.earth.earthhack.impl.event.events.network.PacketEvent;

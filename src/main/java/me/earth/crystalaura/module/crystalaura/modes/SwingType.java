@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  net.minecraft.util.EnumHand
- */
 package me.earth.crystalaura.module.crystalaura.modes;
 
 import net.minecraft.util.EnumHand;

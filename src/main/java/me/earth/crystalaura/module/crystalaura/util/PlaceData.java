@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  net.minecraft.entity.Entity
- *  net.minecraft.entity.player.EntityPlayer
- *  net.minecraft.util.math.BlockPos
- */
 package me.earth.crystalaura.module.crystalaura.util;
 
 import net.minecraft.entity.Entity;

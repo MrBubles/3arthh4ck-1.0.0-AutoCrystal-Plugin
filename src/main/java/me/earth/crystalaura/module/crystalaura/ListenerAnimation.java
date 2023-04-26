@@ -1,14 +1,3 @@
-//Deobfuscated with https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000 using mappings "C:\Users\KHALED IBRAHIM\Desktop\Minecraft-Deobfuscator3000-master\1.12 stable mappings"!
-
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  net.minecraft.item.ItemAxe
- *  net.minecraft.item.ItemEndCrystal
- *  net.minecraft.item.ItemSword
- *  net.minecraft.network.play.server.SPacketAnimation
- */
 package me.earth.crystalaura.module.crystalaura;
 
 import me.earth.earthhack.impl.event.events.network.PacketEvent;

@@ -1,0 +1,5 @@
+{
+  "name": "CrystalAuraPlugin",
+  "mainClass": "me.earth.crystalaura.Main",
+  "mixinConfig": "mixins.crystalAura.json"
+}

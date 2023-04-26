@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.earth.crystalaura.mixin",
+  "refmap": "mixins.crystalaura.refmap.json",
+  "mixins": [
+    "MixinUseless"
+  ]
+}

@@ -5,4 +5,5 @@ higher)
 
 # Credits
 for base: "https://github.com/AquaMinerale2b2t/3arthh4ck-Example-Plugin"
+
 for jar: "https://github.com/Zane2b2t/Phobos-3arthh4ck"
